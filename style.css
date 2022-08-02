@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.left-grey-bg {
+  display: none;
+}
+h2 {
+  text-transform: uppercase;
+  background-color: rgb(201, 201, 201);
+}
+.container-flex {
+  background-color: grey;
+  display: flex;
+  justify-content: space-between;
+}
+.bottom-circle {
+  background-color: rgb(169, 40, 40);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: fixed;
+  right: 60px;
+  bottom: 60px;
+}
